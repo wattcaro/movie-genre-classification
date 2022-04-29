@@ -1,0 +1,21 @@
+{
+  "Language" : "English",
+  "Box_office" : "290,158,751",
+  "Country" : "USA",
+  "Rated" : "PG",
+  "imdbID" : "tt0080684",
+  "Awards" : "Won 1 Oscar. Another 15 wins & 18 nominations.",
+  "Poster" : "http://ia.media-imdb.com/images/M/MV5BMjE2MzQwMTgxN15BMl5BanBnXkFtZTcwMDQzNjk2OQ@@._V1_SX300.jpg",
+  "Director" : "Irvin Kershner",
+  "Released" : "20 Jun 1980",
+  "Writer" : "Leigh Brackett (screenplay), Lawrence Kasdan (screenplay), George Lucas (story)",
+  "imdbVotes" : "799,579",
+  "Runtime" : "124 min",
+  "Response" : "True",
+  "imdbRating" : "8.8",
+  "Title" : "Star Wars: Episode V - The Empire Strikes Back",
+  "Genre" : "Action, Adventure, Fantasy",
+  "Actors" : "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+  "Type" : "movie",
+  "Metascore" : "79"
+}
