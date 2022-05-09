@@ -1,5 +1,4 @@
-{
-  "Response" : "True",
+[{  "Response" : "True",
   "Language" : "English, German, Hebrew, Spanish, Arabic, Nepali",
   "imdbVotes" : "639,399",
   "Runtime" : "115 min",
@@ -18,7 +17,7 @@
   "Awards" : "Won 4 Oscars. Another 29 wins & 23 nominations.",
   "Title" : "Raiders of the Lost Ark",
   "imdbID" : "tt0082971"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -39,7 +38,7 @@
   "Awards" : "Won 3 Oscars. Another 11 wins & 23 nominations.",
   "Title" : "On Golden Pond",
   "imdbID" : "tt0082846"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -60,7 +59,7 @@
   "Awards" : "Won 2 Oscars. Another 9 wins & 6 nominations.",
   "Title" : "Arthur",
   "imdbID" : "tt0082031"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Russian, Polish",
@@ -81,7 +80,7 @@
   "Awards" : "N/A",
   "Title" : "Stripes",
   "imdbID" : "tt0083131"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Cantonese, Japanese, Arabic",
@@ -102,7 +101,7 @@
   "Awards" : "1 win & 2 nominations.",
   "Title" : "The Cannonball Run",
   "imdbID" : "tt0082136"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, French",
@@ -123,7 +122,7 @@
   "Awards" : "Won 4 Oscars. Another 14 wins & 19 nominations.",
   "Title" : "Chariots of Fire",
   "imdbID" : "tt0082158"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Greek, Italian",
@@ -144,7 +143,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 2 wins & 4 nominations.",
   "Title" : "For Your Eyes Only",
   "imdbID" : "tt0082398"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -165,7 +164,7 @@
   "Awards" : "Nominated for 4 Golden Globes. Another 1 win & 1 nomination.",
   "Title" : "The Four Seasons",
   "imdbID" : "tt0082405"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -186,7 +185,7 @@
   "Awards" : "1 win & 8 nominations.",
   "Title" : "Time Bandits",
   "imdbID" : "tt0081633"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Spanish",
@@ -207,7 +206,7 @@
   "Awards" : "Nominated for 3 Oscars. Another 3 wins & 5 nominations.",
   "Title" : "Absence of Malice",
   "imdbID" : "tt0081974"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Russian, German, French, Finnish",
@@ -228,7 +227,7 @@
   "Awards" : "Won 3 Oscars. Another 19 wins & 34 nominations.",
   "Title" : "Reds",
   "imdbID" : "tt0082979"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -249,7 +248,7 @@
   "Awards" : "1 win & 2 nominations.",
   "Title" : "The Fox and the Hound",
   "imdbID" : "tt0082406"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -270,7 +269,7 @@
   "Awards" : "2 wins & 7 nominations.",
   "Title" : "Tarzan, the Ape Man",
   "imdbID" : "tt0083170"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -291,7 +290,7 @@
   "Awards" : "N/A",
   "Title" : "Taps",
   "imdbID" : "tt0083169"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, French, Italian",
@@ -312,7 +311,7 @@
   "Awards" : "N/A",
   "Title" : "Sharky's Machine",
   "imdbID" : "tt0083064"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -333,7 +332,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 2 wins & 9 nominations.",
   "Title" : "Excalibur",
   "imdbID" : "tt0082348"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Latin, French",
@@ -354,7 +353,7 @@
   "Awards" : "1 win & 1 nomination.",
   "Title" : "History of the World: Part I",
   "imdbID" : "tt0082517"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -375,7 +374,7 @@
   "Awards" : "2 wins.",
   "Title" : "Bustin' Loose",
   "imdbID" : "tt0082121"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -396,7 +395,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 1 nomination.",
   "Title" : "The Great Muppet Caper",
   "imdbID" : "tt0082474"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -417,7 +416,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 2 wins & 14 nominations.",
   "Title" : "Endless Love",
   "imdbID" : "tt0082329"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -438,7 +437,7 @@
   "Awards" : "Won 1 Oscar. Another 2 wins & 3 nominations.",
   "Title" : "An American Werewolf in London",
   "imdbID" : "tt0082010"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -459,7 +458,7 @@
   "Awards" : "N/A",
   "Title" : "Fort Apache the Bronx",
   "imdbID" : "tt0082402"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -480,7 +479,7 @@
   "Awards" : "Nominated for 5 Oscars. Another 9 wins & 14 nominations.",
   "Title" : "The French Lieutenant's Woman",
   "imdbID" : "tt0082416"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -501,7 +500,7 @@
   "Awards" : "1 nomination.",
   "Title" : "Private Lessons",
   "imdbID" : "tt0082948"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -522,7 +521,7 @@
   "Awards" : "1 nomination.",
   "Title" : "Modern Problems",
   "imdbID" : "tt0082763"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -543,7 +542,7 @@
   "Awards" : "3 nominations.",
   "Title" : "Halloween II",
   "imdbID" : "tt0082495"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -564,7 +563,7 @@
   "Awards" : "Nominated for 3 Oscars. Another 2 wins & 5 nominations.",
   "Title" : "Only When I Laugh",
   "imdbID" : "tt0082853"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -585,7 +584,7 @@
   "Awards" : "4 nominations.",
   "Title" : "Escape from New York",
   "imdbID" : "tt0082340"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -606,7 +605,7 @@
   "Awards" : "Nominated for 1 Golden Globe. Another 5 nominations.",
   "Title" : "Body Heat",
   "imdbID" : "tt0082089"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -627,7 +626,7 @@
   "Awards" : "2 nominations.",
   "Title" : "Ghost Story",
   "imdbID" : "tt0082449"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -648,7 +647,7 @@
   "Awards" : "3 nominations.",
   "Title" : "Friday the 13th Part 2",
   "imdbID" : "tt0082418"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -669,7 +668,7 @@
   "Awards" : "1 win & 3 nominations.",
   "Title" : "The Incredible Shrinking Woman",
   "imdbID" : "tt0082558"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -690,7 +689,7 @@
   "Awards" : "9 wins & 11 nominations.",
   "Title" : "Mommie Dearest",
   "imdbID" : "tt0082766"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -711,7 +710,7 @@
   "Awards" : "2 wins & 2 nominations.",
   "Title" : "Paternity",
   "imdbID" : "tt0082886"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -732,7 +731,7 @@
   "Awards" : "1 win & 4 nominations.",
   "Title" : "Under the Rainbow",
   "imdbID" : "tt0083254"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Spanish",
@@ -753,7 +752,7 @@
   "Awards" : "2 wins & 2 nominations.",
   "Title" : "The Howling",
   "imdbID" : "tt0082533"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, German",
@@ -774,7 +773,7 @@
   "Awards" : "1 nomination.",
   "Title" : "Eye of the Needle",
   "imdbID" : "tt0082351"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -795,7 +794,7 @@
   "Awards" : "N/A",
   "Title" : "Take This Job and Shove It",
   "imdbID" : "tt0083163"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -816,7 +815,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 1 win & 6 nominations.",
   "Title" : "Outland",
   "imdbID" : "tt0082869"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -837,7 +836,7 @@
   "Awards" : "N/A",
   "Title" : "The Devil and Max Devlin",
   "imdbID" : "tt0082263"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -858,7 +857,7 @@
   "Awards" : "1 win & 1 nomination.",
   "Title" : "Caveman",
   "imdbID" : "tt0082146"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -879,7 +878,7 @@
   "Awards" : "N/A",
   "Title" : "Continental Divide",
   "imdbID" : "tt0082200"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -900,7 +899,7 @@
   "Awards" : "N/A",
   "Title" : "The Night the Lights Went Out in Georgia",
   "imdbID" : "tt0082816"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, German, French, Swedish",
@@ -921,7 +920,7 @@
   "Awards" : "N/A",
   "Title" : "Nighthawks",
   "imdbID" : "tt0082817"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -942,7 +941,7 @@
   "Awards" : "Nominated for 1 Golden Globe. Another 1 win & 3 nominations.",
   "Title" : "S.O.B.",
   "imdbID" : "tt0083015"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -963,7 +962,7 @@
   "Awards" : "1 win.",
   "Title" : "Rich and Famous",
   "imdbID" : "tt0082992"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -984,7 +983,7 @@
   "Awards" : "Nominated for 2 Oscars. Another 5 nominations.",
   "Title" : "Dragonslayer",
   "imdbID" : "tt0082288"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1005,7 +1004,7 @@
   "Awards" : "2 wins & 2 nominations.",
   "Title" : "True Confessions",
   "imdbID" : "tt0083232"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1026,7 +1025,7 @@
   "Awards" : "N/A",
   "Title" : "Atlantic City Alive",
   "imdbID" : "tt1614571"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1047,7 +1046,7 @@
   "Awards" : "4 wins & 4 nominations.",
   "Title" : "The Legend of the Lone Ranger",
   "imdbID" : "tt0082648"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1068,7 +1067,7 @@
   "Awards" : "Nominated for 2 Golden Globes. Another 1 nomination.",
   "Title" : "First Monday in October",
   "imdbID" : "tt0082382"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1089,7 +1088,7 @@
   "Awards" : "1 win & 1 nomination.",
   "Title" : "The Postman Always Rings Twice",
   "imdbID" : "tt0082934"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1110,7 +1109,7 @@
   "Awards" : "N/A",
   "Title" : "Comin' at Ya!",
   "imdbID" : "tt0082193"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1131,7 +1130,7 @@
   "Awards" : "2 nominations.",
   "Title" : "Blow Out",
   "imdbID" : "tt0082085"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1152,7 +1151,7 @@
   "Awards" : "N/A",
   "Title" : "Back Roads",
   "imdbID" : "tt0082042"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1173,7 +1172,7 @@
   "Awards" : "2 wins & 6 nominations.",
   "Title" : "Thief",
   "imdbID" : "tt0083190"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1194,7 +1193,7 @@
   "Awards" : "Nominated for 8 Oscars. Another 2 wins & 13 nominations.",
   "Title" : "Ragtime",
   "imdbID" : "tt0082970"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1215,7 +1214,7 @@
   "Awards" : "1 nomination.",
   "Title" : "Victory",
   "imdbID" : "tt0083284"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1236,7 +1235,7 @@
   "Awards" : "1 nomination.",
   "Title" : "Rollover",
   "imdbID" : "tt0083006"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1257,7 +1256,7 @@
   "Awards" : "2 wins & 4 nominations.",
   "Title" : "Wolfen",
   "imdbID" : "tt0083336"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Spanish",
@@ -1278,7 +1277,7 @@
   "Awards" : "N/A",
   "Title" : "Carbon Copy",
   "imdbID" : "tt0082138"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1299,7 +1298,7 @@
   "Awards" : "Nominated for 3 Oscars. Another 3 wins & 6 nominations.",
   "Title" : "Pennies from Heaven",
   "imdbID" : "tt0082894"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1320,7 +1319,7 @@
   "Awards" : "2 nominations.",
   "Title" : "Deadly Blessing",
   "imdbID" : "tt0082245"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1341,7 +1340,7 @@
   "Awards" : "N/A",
   "Title" : "Whose Life Is It Anyway?",
   "imdbID" : "tt0083326"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Spanish, Italian",
@@ -1362,7 +1361,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 4 wins & 14 nominations.",
   "Title" : "Prince of the City",
   "imdbID" : "tt0082945"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1383,7 +1382,7 @@
   "Awards" : "2 nominations.",
   "Title" : "Buddy Buddy",
   "imdbID" : "tt0082111"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1404,7 +1403,7 @@
   "Awards" : "1 win.",
   "Title" : "...All the Marbles",
   "imdbID" : "tt0081964"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1425,7 +1424,7 @@
   "Awards" : "N/A",
   "Title" : "Eyewitness",
   "imdbID" : "tt0082353"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1446,7 +1445,7 @@
   "Awards" : "Nominated for 1 Golden Globe. Another 11 wins & 5 nominations.",
   "Title" : "Gallipoli",
   "imdbID" : "tt0082432"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1467,7 +1466,7 @@
   "Awards" : "3 nominations.",
   "Title" : "Going Ape!",
   "imdbID" : "tt0082457"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1488,7 +1487,7 @@
   "Awards" : "N/A",
   "Title" : "Student Bodies",
   "imdbID" : "tt0083133"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1509,7 +1508,7 @@
   "Awards" : "2 nominations.",
   "Title" : "All Night Long",
   "imdbID" : "tt0082001"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1530,7 +1529,7 @@
   "Awards" : "1 win.",
   "Title" : "The Pursuit of D.B. Cooper",
   "imdbID" : "tt0082958"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1551,7 +1550,7 @@
   "Awards" : "Nominated for 1 Golden Globe. Another 1 win.",
   "Title" : "Zoot Suit",
   "imdbID" : "tt0083365"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1572,7 +1571,7 @@
   "Awards" : "N/A",
   "Title" : "Gas",
   "imdbID" : "tt0082440"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1593,7 +1592,7 @@
   "Awards" : "N/A",
   "Title" : "Modern Romance",
   "imdbID" : "tt0082764"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1614,7 +1613,7 @@
   "Awards" : "2 nominations.",
   "Title" : "The Hand",
   "imdbID" : "tt0082497"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1635,7 +1634,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 8 nominations.",
   "Title" : "Heartbeeps",
   "imdbID" : "tt0082507"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1656,7 +1655,7 @@
   "Awards" : "N/A",
   "Title" : "This Is Elvis",
   "imdbID" : "tt0083193"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1677,7 +1676,7 @@
   "Awards" : "N/A",
   "Title" : "Sphinx",
   "imdbID" : "tt0083113"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1698,7 +1697,7 @@
   "Awards" : "4 nominations.",
   "Title" : "Honky Tonk Freeway",
   "imdbID" : "tt0082525"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1719,7 +1718,7 @@
   "Awards" : "Nominated for 1 Golden Globe. Another 1 nomination.",
   "Title" : "Raggedy Man",
   "imdbID" : "tt0082969"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1740,7 +1739,7 @@
   "Awards" : "N/A",
   "Title" : "King of the Mountain",
   "imdbID" : "tt0082619"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1761,7 +1760,7 @@
   "Awards" : "2 wins & 2 nominations.",
   "Title" : "Cutter's Way",
   "imdbID" : "tt0082220"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1782,7 +1781,7 @@
   "Awards" : "1 win & 8 nominations.",
   "Title" : "Silence of the North",
   "imdbID" : "tt0083079"
-}
+},
 {
   "Response" : "True",
   "Language" : "English, Mandarin",
@@ -1803,7 +1802,7 @@
   "Awards" : "N/A",
   "Title" : "From Mao to Mozart: Isaac Stern in China",
   "imdbID" : "tt0080762"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1824,7 +1823,7 @@
   "Awards" : "1 win & 1 nomination.",
   "Title" : "Night School",
   "imdbID" : "tt0082812"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1845,7 +1844,7 @@
   "Awards" : "N/A",
   "Title" : "Eyes of a Stranger",
   "imdbID" : "tt0082352"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1866,7 +1865,7 @@
   "Awards" : "1 win.",
   "Title" : "Cattle Annie and Little Britches",
   "imdbID" : "tt0082145"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1887,7 +1886,7 @@
   "Awards" : "1 nomination.",
   "Title" : "Hard Country",
   "imdbID" : "tt0082499"
-}
+},
 {
   "Response" : "True",
   "Language" : "Polish",
@@ -1908,7 +1907,7 @@
   "Awards" : "Nominated for 1 Oscar. Another 6 wins & 3 nominations.",
   "Title" : "Man of Iron",
   "imdbID" : "tt0082222"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1929,7 +1928,7 @@
   "Awards" : "N/A",
   "Title" : "Kelly",
   "imdbID" : "tt0082606"
-}
+},
 {
   "Response" : "True",
   "Language" : "English",
@@ -1950,4 +1949,4 @@
   "Awards" : "N/A",
   "Title" : "Second-Hand Hearts",
   "imdbID" : "tt0083041"
-}
+}]

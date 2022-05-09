@@ -1,5 +1,4 @@
-{
-  "Language" : "English",
+[{  "Language" : "English",
   "Box_office" : "290,158,751",
   "Country" : "USA",
   "Rated" : "PG",
@@ -18,7 +17,7 @@
   "Actors" : "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
   "Type" : "movie",
   "Metascore" : "79"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "101,500,000",
@@ -39,7 +38,7 @@
   "Actors" : "Gene Wilder, Richard Pryor, Georg Stanford Brown, JoBeth Williams",
   "Type" : "movie",
   "Metascore" : "50"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "83,400,000",
@@ -60,7 +59,7 @@
   "Actors" : "Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -81,7 +80,7 @@
   "Actors" : "Clint Eastwood, Sondra Locke, Geoffrey Lewis, William Smith",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "69,800,000",
@@ -102,7 +101,7 @@
   "Actors" : "Goldie Hawn, Eileen Brennan, Armand Assante, Robert Webber",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "79,900,000",
@@ -123,7 +122,7 @@
   "Actors" : "Sissy Spacek, Tommy Lee Jones, Levon Helm, Phyllis Boyens",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Spanish",
   "Box_office" : "66,100,000",
@@ -144,7 +143,7 @@
   "Actors" : "Burt Reynolds, Jackie Gleason, Jerry Reed, Dom DeLuise",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -165,7 +164,7 @@
   "Actors" : "Brooke Shields, Christopher Atkins, Leo McKern, William Daniels",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "54,200,000",
@@ -186,7 +185,7 @@
   "Actors" : "John Belushi, Dan Aykroyd, James Brown, Cab Calloway",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "54,800,000",
@@ -207,7 +206,7 @@
   "Actors" : "Donald Sutherland, Mary Tyler Moore, Judd Hirsch, Timothy Hutton",
   "Type" : "movie",
   "Metascore" : "85"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "50,000,000",
@@ -228,7 +227,7 @@
   "Actors" : "Robin Williams, Shelley Duvall, Ray Walston, Paul Dooley",
   "Type" : "movie",
   "Metascore" : "48"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -249,7 +248,7 @@
   "Actors" : "John Travolta, Debra Winger, Scott Glenn, Madolyn Smith Osborne",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -270,7 +269,7 @@
   "Actors" : "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
   "Type" : "movie",
   "Metascore" : "61"
-}
+},
 {
   "Language" : "English, Spanish",
   "Box_office" : null,
@@ -291,7 +290,7 @@
   "Actors" : "Goldie Hawn, Chevy Chase, Charles Grodin, Robert Guillaume",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -312,7 +311,7 @@
   "Actors" : "Cheech Marin, Tommy Chong, Evelyn Guerrero, Betty Kennedy",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "39,800,000",
@@ -333,7 +332,7 @@
   "Actors" : "Chevy Chase, Rodney Dangerfield, Ted Knight, Michael O'Keefe",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "37,100,000",
@@ -354,7 +353,7 @@
   "Actors" : "Robert Redford, Yaphet Kotto, Jane Alexander, Murray Hamilton",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -375,7 +374,7 @@
   "Actors" : "Tatum O'Neal, Kristy McNichol, Armand Assante, Matt Dillon",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "31,899,000",
@@ -396,7 +395,7 @@
   "Actors" : "Michael Caine, Angie Dickinson, Nancy Allen, Keith Gordon",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "27,118,000",
@@ -417,7 +416,7 @@
   "Actors" : "Neil Diamond, Laurence Olivier, Lucie Arnaz, Catlin Adams",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -438,7 +437,7 @@
   "Actors" : "Sam J. Jones, Melody Anderson, Max von Sydow, Topol",
   "Type" : "movie",
   "Metascore" : "63"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -459,7 +458,7 @@
   "Actors" : "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -480,7 +479,7 @@
   "Actors" : "Clint Eastwood, Sondra Locke, Geoffrey Lewis, Scatman Crothers",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "45,250",
@@ -501,7 +500,7 @@
   "Actors" : "Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",
   "Type" : "movie",
   "Metascore" : "92"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "10,200,000",
@@ -522,7 +521,7 @@
   "Actors" : "Olivia Newton-John, Gene Kelly, Michael Beck, James Sloyan",
   "Type" : "movie",
   "Metascore" : "35"
-}
+},
 {
   "Language" : "English, Swedish, French, German",
   "Box_office" : null,
@@ -543,7 +542,7 @@
   "Actors" : "Richard Gere, Lauren Hutton, Hector Elizondo, Nina van Pallandt",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -564,7 +563,7 @@
   "Actors" : "Chris Makepeace, Adam Baldwin, Matt Dillon, Paul Quandt",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "21,378,000",
@@ -585,7 +584,7 @@
   "Actors" : "Adrienne Barbeau, Jamie Lee Curtis, Janet Leigh, John Houseman",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Spanish",
   "Box_office" : "25,000,000",
@@ -606,7 +605,7 @@
   "Actors" : "William Hurt, Blair Brown, Bob Balaban, Charles Haid",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -627,7 +626,7 @@
   "Actors" : "Al Pacino, Paul Sorvino, Karen Allen, Richard Cox",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "18,971,000",
@@ -648,7 +647,7 @@
   "Actors" : "Chuck Norris, Karen Carlson, Lee Van Cleef, Art Hindle",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -669,7 +668,7 @@
   "Actors" : "Willie Nelson, Dyan Cannon, Amy Irving, Slim Pickens",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Spanish",
   "Box_office" : null,
@@ -690,7 +689,7 @@
   "Actors" : "Cloris Leachman, Charles Martin Smith, John Vernon, Stephen W. Burns",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -711,7 +710,7 @@
   "Actors" : "Burt Reynolds, Lesley-Anne Down, David Niven, Timothy West",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Japanese, Russian",
   "Box_office" : null,
@@ -732,7 +731,7 @@
   "Actors" : "Kirk Douglas, Martin Sheen, Katharine Ross, James Farentino",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -753,7 +752,7 @@
   "Actors" : "Steve McQueen, Eli Wallach, Kathryn Harrold, LeVar Burton",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -774,7 +773,7 @@
   "Actors" : "John Ritter, Anne Archer, Bert Convy, Kevin McCarthy",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Swedish",
   "Box_office" : null,
@@ -795,7 +794,7 @@
   "Actors" : "David Carradine, Keith Carradine, Robert Carradine, James Keach",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -816,7 +815,7 @@
   "Actors" : "Gilda Radner, Bob Newhart, Madeline Kahn, Richard Benjamin",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -837,7 +836,7 @@
   "Actors" : "Leslie Nielsen, Jamie Lee Curtis, Casey Stevens, Anne-Marie Martin",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -858,7 +857,7 @@
   "Actors" : "Don Adams, Sylvia Kristel, Rhonda Fleming, Dana Elcar",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -879,7 +878,7 @@
   "Actors" : "George Burns, Suzanne Pleshette, David Birney, Louanne",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -900,7 +899,7 @@
   "Actors" : "Richard Dreyfuss, Amy Irving, Lee Remick, Sam Wanamaker",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -921,7 +920,7 @@
   "Actors" : "Dudley Moore, Laraine Newman, James Coco, Paul Sand",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -942,7 +941,7 @@
   "Actors" : "George Segal, Natalie Wood, Richard Benjamin, Valerie Harper",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -963,7 +962,7 @@
   "Actors" : "Kurt Russell, Jack Warden, Gerrit Graham, Frank McRae",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -984,7 +983,7 @@
   "Actors" : "Angela Lansbury, Wendy Morgan, Margaret Courtenay, Charles Gray",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1005,7 +1004,7 @@
   "Actors" : "Elliott Gould, Genevieve Bujold, Ricky Schroder, Vincent Gardenia",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1026,7 +1025,7 @@
   "Actors" : "Peter Sellers, Helen Mirren, David Tomlinson, Sid Caesar",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, French, Persian",
   "Box_office" : null,
@@ -1047,7 +1046,7 @@
   "Actors" : "Woody Allen, Charlotte Rampling, Jessica Harper, Marie-Christine Barrault",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1068,7 +1067,7 @@
   "Actors" : "Julius Averitt, Steve Ballard, Phil Berle, Mike Binder",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1089,7 +1088,7 @@
   "Actors" : "Martin Mull, Tuesday Weld, Jennifer McAllister, Sam Chew Jr.",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1110,7 +1109,7 @@
   "Actors" : "Christopher Reeve, Jane Seymour, Christopher Plummer, Teresa Wright",
   "Type" : "movie",
   "Metascore" : "29"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1131,7 +1130,7 @@
   "Actors" : "Jack Lemmon, Robby Benson, Lee Remick, Colleen Dewhurst",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1152,7 +1151,7 @@
   "Actors" : "Farrah Fawcett, Kirk Douglas, Harvey Keitel",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Spanish, German",
   "Box_office" : null,
@@ -1173,7 +1172,7 @@
   "Actors" : "George C. Scott, Marlon Brando, Marthe Keller, John Gielgud",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1194,7 +1193,7 @@
   "Actors" : "Charlton Heston, Susannah York, Jill Townsend, Stephanie Zimbalist",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1215,7 +1214,7 @@
   "Actors" : "Dom DeLuise, Anne Bancroft, Ron Carey, Candice Azzara",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1236,7 +1235,7 @@
   "Actors" : "Jodie Foster, Cherie Currie, Marilyn Kagan, Kandice Stroh",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, French, Italian, German",
   "Box_office" : null,
@@ -1257,7 +1256,7 @@
   "Actors" : "Lee Marvin, Mark Hamill, Robert Carradine, Bobby Di Cicco",
   "Type" : "movie",
   "Metascore" : "77"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1278,7 +1277,7 @@
   "Actors" : "Peter O'Toole, Steve Railsback, Barbara Hershey, Allen Garfield",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1299,7 +1298,7 @@
   "Actors" : "Peter Boyle, Bill Murray, Bruno Kirby, Rene Auberjonois",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1320,7 +1319,7 @@
   "Actors" : "Robin Altman, Chuck Barris, Brian O'Mullin, Jack Bernardi",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1341,7 +1340,7 @@
   "Actors" : "Rory Calhoun, Paul Linke, Nancy Parsons, Nina Axelrod",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1362,7 +1361,7 @@
   "Actors" : "Walter Matthau, Julie Andrews, Tony Curtis, Bob Newhart",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1383,7 +1382,7 @@
   "Actors" : "Chevy Chase, Benjean, Jane Seymour, Omar Sharif",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1404,7 +1403,7 @@
   "Actors" : "Bette Midler, Jocelyn Brown, Ula Hedwig, Diva Gray",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1425,7 +1424,7 @@
   "Actors" : "Don Scardino, Caitlin O'Heaney, Elizabeth Kemp, Tom Rolfing",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1446,7 +1445,7 @@
   "Actors" : "Dyan Cannon, Robert Blake, Quinn K. Redeker, Michael Lerner",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1467,7 +1466,7 @@
   "Actors" : "Michael Ontkean, Margot Kidder, Ray Sharkey, Jan Miner",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1488,7 +1487,7 @@
   "Actors" : "Jason Robards, Paul Le Mat, Elizabeth Cheshire, Mary Steenburgen",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1509,7 +1508,7 @@
   "Actors" : "Meat Loaf, Kaki Hunter, Art Carney, Gailard Sartain",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1530,7 +1529,7 @@
   "Actors" : "Julie Carmen, Tony Knesich, Gregory Cleghorne, Buck Henry",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "Japanese",
   "Box_office" : null,
@@ -1551,7 +1550,7 @@
   "Actors" : "Tatsuya Nakadai, Tsutomu Yamazaki, Ken'ichi Hagiwara, Jinpachi Nezu",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1572,7 +1571,7 @@
   "Actors" : "Ellen Burstyn, Sam Shepard, Richard Farnsworth, Roberts Blossom",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1593,7 +1592,7 @@
   "Actors" : "James Caan, Jill Eikenberry, Robert Viharo, Joe Grifasi",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : "1,700,000",
@@ -1614,7 +1613,7 @@
   "Actors" : "Paul Newman, Jacqueline Bisset, William Holden, Edward Albert",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, Russian, French, Polish, German",
   "Box_office" : "1,500,000",
@@ -1635,7 +1634,7 @@
   "Actors" : "Kris Kristofferson, Christopher Walken, John Hurt, Sam Waterston",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1656,7 +1655,7 @@
   "Actors" : "David Naughton, Debra Clinger, David Damas, Michael J. Fox",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1677,7 +1676,7 @@
   "Actors" : "Shirley MacLaine, James Coburn, Susan Sarandon, Stephen Collins",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1698,7 +1697,7 @@
   "Actors" : "Ray Sharkey, Tovah Feldshuh, Peter Gallagher, Paul Land",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1719,7 +1718,7 @@
   "Actors" : "Robert Foxworth, Paula Prentiss, Harry Dean Stanton, Barbara Babcock",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1740,7 +1739,7 @@
   "Actors" : "Gilda Radner, Don Novello, Paul Shaffer, Nils Nichols",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1761,7 +1760,7 @@
   "Actors" : "Talia Shire, Joe Cortese, Elizabeth Ashley, Kay Medford",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1782,7 +1781,7 @@
   "Actors" : "Ali MacGraw, Alan King, Myrna Loy, Keenan Wynn",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English, French",
   "Box_office" : null,
@@ -1803,7 +1802,7 @@
   "Actors" : "Daniel Anderson, Scott Beach, Casey Carlson, Debbie Muller",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1824,7 +1823,7 @@
   "Actors" : "Gary Busey, Jodie Foster, Robbie Robertson, Meg Foster",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1845,7 +1844,7 @@
   "Actors" : "Treat Williams, Lisa Eichhorn, Gabriel Macht, Susan Heldfond",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1866,7 +1865,7 @@
   "Actors" : "Alan Bates, George De La Pena, Leslie Browne, Alan Badel",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1887,7 +1886,7 @@
   "Actors" : "Nick Nolte, Sissy Spacek, John Heard, Ray Sharkey",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1908,7 +1907,7 @@
   "Actors" : "Paul Simon, Blair Brown, Rip Torn, Joan Hackett",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1929,7 +1928,7 @@
   "Actors" : "Frank Langella, Glynnis O'Connor, Tom Hulce, Jerry Stiller",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1950,7 +1949,7 @@
   "Actors" : "Brad Davis, Karen Allen, Jameson Parker, Shelley Long",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1971,7 +1970,7 @@
   "Actors" : "Don Most, Linda Purl, David Huffman, Jerry Paris",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -1992,7 +1991,7 @@
   "Actors" : "Nancy Allen, Mary Davenport, Kirk Douglas, Vincent Gardenia",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -2013,7 +2012,7 @@
   "Actors" : "Paul Michael Glaser, Susan Hogan, John Colicos, David Bolt",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+},
 {
   "Language" : "English",
   "Box_office" : null,
@@ -2034,4 +2033,4 @@
   "Actors" : "Phil Daniels, Hazel O'Connor, Jon Finch, Jonathan Pryce",
   "Type" : "movie",
   "Metascore" : "N/A"
-}
+}]
